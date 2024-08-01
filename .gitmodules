@@ -1,0 +1,3 @@
+[submodule "john-smilga/node-express-course"]
+	path = john-smilga/node-express-course
+	url = https://github.com/john-smilga/node-express-course.git
