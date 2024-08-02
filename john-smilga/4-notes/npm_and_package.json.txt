@@ -1,0 +1,7 @@
+Commands to run the scripts in the package.json
+npm start
+npm run dev
+
+Reference article for package.json
+The Basics of package.json in Node.js and npm 
+@ nodesource.com

@@ -1,0 +1,9 @@
+Event loop references
+
+blog
+nodejs.dev The Nodee.js Event loop
+youtube
+Morning Keynote- Everything you need to know about Node.js Event loop
+Bert Belder IBM
+
+What the heck is the event loop anyway? Philip Roberts JSConf EU
